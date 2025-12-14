@@ -1,0 +1,9 @@
+.page {
+    text-align: center;
+
+    background-color: black;
+    color: lightgray;
+
+    width: 100vw;
+    height: 100vh;
+}
